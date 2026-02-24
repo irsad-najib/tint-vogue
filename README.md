@@ -5,5 +5,5 @@ Tint Vogue is a web application that helps users discover the best outfit color 
 Kelompok 10 \[2223]
 
 * Ketua Kelompok : Irsad Najib Eka Putra - 23/518119/TK/57005
-* Anggota 1 : Nibroos Aurore Majiid Haryanto
+* Anggota 1 : Nibroos Aurore Majiid Haryanto - 22/494882/TK/54329
 * Anggota 2 : Rahma Putri Anjani
