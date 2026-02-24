@@ -1,7 +1,8 @@
-# tint-vogue
-website untuk match color outfit dengan skintone anda
+# Tint Vogue 🎨👗
+Tint Vogue is a web application that helps users discover the best outfit color combinations based on their unique **skin tone**.  By analyzing undertones and preferences, Tint Vogue provides personalized recommendations to enhance style and confidence.
 
-kelompok 2223
+Kelompok 10 [2223]
 Ketua Kelompok : Irsad Najib Eka Putra
-Anggota 1 : 
-Anggota 2 :
+Anggota 1 : Nibroos Aurore Majiid Haryanto
+Anggota 2 : Rahma Putri Anjani
+
