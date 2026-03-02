@@ -158,4 +158,4 @@ Berpotensi menjadi inspirasi UI/UX untuk fashion discovery tools berbasis visual
 
 ## Lean Canvas
 
-![Lean Canvas ](/file/belajar_program/tint-vogue/src/LeanCanvas-senproKel10.jpeg)
+![Lean Canvas ](../src/LeanCanvas-senproKel10.jpeg)
