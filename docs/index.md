@@ -131,6 +131,31 @@ Fitur yang cukup lengkap meliputi virtual makeup, hair color changer, dan smart 
 
 Teknologi **virtual try-on** yang sudah terimplementasi secara praktis dalam e-commerce untuk membantu pengguna menemukan shade makeup mereka.
 
+### KOMPETITOR 3
+
+| Kategori             | Deskripsi                                                                                                          |
+| -------------------- | ------------------------------------------------------------------------------------------------------------------ |
+| **Nama**             | Prototype Swipe Closet Experience (Twitter @jayhxmo)                                                               |
+| **Jenis Kompetitor** | Indirect                                                                                                           |
+| **Jenis Produk**     | Konsep UI _swipe through closet_ & mix & match outfits yang masih berbentuk prototype desain interface fashion app |
+| **Target Customer**  | Pecinta fashion / pengguna media sosial yang tertarik dengan pengalaman virtual wardrobe                           |
+
+---
+
+#### Kelebihan vs Kekurangan
+
+| Kelebihan                                                                           | Kekurangan                                                                                              |
+| ----------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------- |
+| - Fokus pada mixer outfit / visual browsing                                         | - Tidak ada model AI untuk analisis skin tone atau rekomendasi warna berdasarkan karakteristik pengguna |
+| - UX inspiratif dengan ide _"swipe through closet"_ yang sangat visual dan intuitif |                                                                                                         |
+
+---
+
+#### Key Competitive Advantage & Unique Value
+
+Konsep interaksi berbasis swipe untuk eksplorasi outfit yang engaging dan mudah dipahami.  
+Berpotensi menjadi inspirasi UI/UX untuk fashion discovery tools berbasis visual.
+
 ## Lean Canvas
 
 ![Lean Canvas ](/file/belajar_program/tint-vogue/src/LeanCanvas-senproKel10.jpeg)
