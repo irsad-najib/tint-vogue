@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # Nama Kelompok
 
 Kelompok 10 - 2223
@@ -28,7 +32,7 @@ tint-vogue
 
 ## Jenis Produk
 
-Web-based AI Fashion Recommendation System
+Personalisasi Kromatik Pakaian Berbasis Computer Vision dan Kecerdasan Buatan (AI) untuk Analisis Warna Personal (Personal Color Analysis).
 
 ## Latar Belakang & Permasalahan
 
