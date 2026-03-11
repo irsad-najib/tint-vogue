@@ -6,4 +6,4 @@ Kelompok 10 \[2223]
 
 * Ketua Kelompok : Irsad Najib Eka Putra - 23/518119/TK/57005
 * Anggota 1 : Nibroos Aurore Majiid Haryanto - 22/494882/TK/54329
-* Anggota 2 : Rahma Putri Anjani
+* Anggota 2 : Rahma Putri Anjani - 23/519131/TK/57233
